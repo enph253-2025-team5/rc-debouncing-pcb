@@ -6,8 +6,8 @@
 	(paper "A5")
 	(title_block
 		(title "RC Debouncer")
-		(date "2025-07-04")
-		(rev "v1.0.0")
+		(date "2025-07-06")
+		(rev "v1.0.1")
 		(company "Team 5")
 		(comment 1 "George Sleen")
 	)
@@ -7251,28 +7251,28 @@
 			)
 		)
 		(pin "8"
-			(uuid "125660ec-c763-446f-ac66-bfa0b47ff83a")
+			(uuid "125660ec-c763-446f-ac66-bfa0b47ff83b")
 		)
 		(pin "4"
-			(uuid "c2c23ce0-dbe0-48fb-99c5-f8757d32e0bb")
+			(uuid "c2c23ce0-dbe0-48fb-99c5-f8757d32e0bc")
 		)
 		(pin "5"
-			(uuid "2c46edea-1d87-4358-8219-0c8803b058fb")
+			(uuid "2c46edea-1d87-4358-8219-0c8803b058fc")
 		)
 		(pin "7"
-			(uuid "f9a9615e-9520-49f0-ac7c-2c1dde72aeeb")
+			(uuid "f9a9615e-9520-49f0-ac7c-2c1dde72aeec")
 		)
 		(pin "3"
-			(uuid "f900c4ab-8851-437c-bc05-fd24217ebbbe")
+			(uuid "f900c4ab-8851-437c-bc05-fd24217ebbbf")
 		)
 		(pin "6"
-			(uuid "0abc4f9d-7384-4ad2-bf31-1929fdcf9111")
+			(uuid "0abc4f9d-7384-4ad2-bf31-1929fdcf9112")
 		)
 		(pin "2"
-			(uuid "daf3cf2d-2ada-46f0-87eb-33497b095aee")
+			(uuid "daf3cf2d-2ada-46f0-87eb-33497b095aef")
 		)
 		(pin "1"
-			(uuid "af098802-d5c5-4a75-af1b-d81ab306b95d")
+			(uuid "af098802-d5c5-4a75-af1b-d81ab306b95e")
 		)
 		(instances
 			(project ""
@@ -8024,28 +8024,28 @@
 			)
 		)
 		(pin "8"
-			(uuid "125660ec-c763-446f-ac66-bfa0b47ff83a")
+			(uuid "125660ec-c763-446f-ac66-bfa0b47ff83c")
 		)
 		(pin "4"
-			(uuid "c2c23ce0-dbe0-48fb-99c5-f8757d32e0bb")
+			(uuid "c2c23ce0-dbe0-48fb-99c5-f8757d32e0bd")
 		)
 		(pin "5"
-			(uuid "2c46edea-1d87-4358-8219-0c8803b058fb")
+			(uuid "2c46edea-1d87-4358-8219-0c8803b058fd")
 		)
 		(pin "7"
-			(uuid "f9a9615e-9520-49f0-ac7c-2c1dde72aeeb")
+			(uuid "f9a9615e-9520-49f0-ac7c-2c1dde72aeed")
 		)
 		(pin "3"
-			(uuid "f900c4ab-8851-437c-bc05-fd24217ebbbe")
+			(uuid "f900c4ab-8851-437c-bc05-fd24217ebbc0")
 		)
 		(pin "6"
-			(uuid "0abc4f9d-7384-4ad2-bf31-1929fdcf9111")
+			(uuid "0abc4f9d-7384-4ad2-bf31-1929fdcf9113")
 		)
 		(pin "2"
-			(uuid "daf3cf2d-2ada-46f0-87eb-33497b095aee")
+			(uuid "daf3cf2d-2ada-46f0-87eb-33497b095af0")
 		)
 		(pin "1"
-			(uuid "af098802-d5c5-4a75-af1b-d81ab306b95d")
+			(uuid "af098802-d5c5-4a75-af1b-d81ab306b95f")
 		)
 		(instances
 			(project ""
